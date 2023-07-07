@@ -1,15 +1,22 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Home";
 }
 
 <div class="text-center">
     <h1 class="display-4">Craft Website</h1>
 </div>
-@foreach(var item in Model.Products)
-{
-    <h2>
-        @item.Title
-    </h2>
-}
+<div class="card-columns">
+    @foreach (var item in Model.Products)
+    {
+        <div class="card">
+            <div class="card-img" style="background-image:url('@item.Image');"></div>
+                <div>
+                    <h5 class="card-title">
+                        @item.Title
+                    </h5>
+                </div>
+        </div>
+    }
+</div>

@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tanan\\Desktop\\dotnet projects\\Crafts.Website\\Crafts.Website.csproj",
+      "projectUniqueName": "C:\\Users\\tanan\\Desktop\\dotnet\\Crafts.Website\\Crafts.Website.csproj",
       "projectName": "Crafts.Website",
-      "projectPath": "C:\\Users\\tanan\\Desktop\\dotnet projects\\Crafts.Website\\Crafts.Website.csproj",
+      "projectPath": "C:\\Users\\tanan\\Desktop\\dotnet\\Crafts.Website\\Crafts.Website.csproj",
       "packagesPath": "C:\\Users\\tanan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tanan\\Desktop\\dotnet projects\\Crafts.Website\\obj\\",
+      "outputPath": "C:\\Users\\tanan\\Desktop\\dotnet\\Crafts.Website\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
