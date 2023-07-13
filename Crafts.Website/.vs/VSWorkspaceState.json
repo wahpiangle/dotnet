@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    "\\Pages"
+    "",
+    "\\Pages",
+    "\\Services",
+    "\\wwwroot",
+    "\\wwwroot\\data"
   ],
   "PreviewInSolutionExplorer": false
 }
